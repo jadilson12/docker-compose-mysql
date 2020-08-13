@@ -9,7 +9,7 @@ in addition the data are present on the local machine even after restart or re c
 
 - mysql:5.7
 
-# Postgres Container Configuration
+# Mysql Container Configuration
 
 1. Expose port
 
